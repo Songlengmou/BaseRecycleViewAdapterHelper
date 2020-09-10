@@ -1,5 +1,5 @@
 # BaseRecycleViewAdapterHelper
-基类，BaseRecycleViewAdapterHelper万能适配器
+BaseRecycleViewAdapterHelper万能适配器
 
 Step 1. Add the JitPack repository to your build file
 
