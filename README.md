@@ -15,5 +15,5 @@ gradle
 Step 2. Add the dependency
 
 dependencies {
-	        implementation 'com.github.Songlengmou:BaseRecycleViewAdapterHelper:Tag'
+	        implementation 'com.github.Songlengmou:BaseRecycleViewAdapterHelper:1.1.0'
 	}
