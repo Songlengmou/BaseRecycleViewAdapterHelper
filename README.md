@@ -2,7 +2,6 @@
 BaseRecycleViewAdapterHelper万能适配器
 
 Step 1. Add the JitPack repository to your build file
-
 gradle
 	allprojects {
 		repositories {
@@ -13,7 +12,6 @@ gradle
 
 
 Step 2. Add the dependency
-
 dependencies {
-	        implementation 'com.github.Songlengmou:BaseRecycleViewAdapterHelper:1.1.0'
+	  implementation 'com.github.Songlengmou:BaseRecycleViewAdapterHelper:1.1.0'
 	}
